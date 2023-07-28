@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StudentApp.Api</name>
+    </assembly>
+    <members>
+        <member name="M:StudentApp.Api.Controllers.GroupsController.Create(StudentApp.Service.Dtos.GroupDtos.GroupCreateDto)">
+            <summary>
+            Create a new group
+            </summary>
+            <remarks>
+            Sample request:
+                
+                POST api/groups
+                {
+                    "Name": "A111 or AA111 must be in this format"
+                }
+            </remarks>
+            <param name="postDto"></param>
+            <returns></returns>
+            <response code="201">The group has been successfully created</response>
+            <response code="400">The request contains invalid data or the data does not follow a specific rule.</response>
+            <response code="404">The requested source or destination was not found.</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.GroupsController.Edit(System.Int32,StudentApp.Service.Dtos.GroupDtos.GroupEditDto)">
+            <summary>
+            Edit your group
+            </summary>
+            <param name="id"></param>
+            <param name="putDto"></param>
+            <returns></returns>
+            <response code="204">The Group has updated successfuly</response>
+            <response code="400">The request contains invalid data or the data does not follow a specific rule.</response>
+            <response code="404">Group not found by id</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.GroupsController.Get(System.Int32)">
+            <summary>
+            Get a group by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <response code="200">The process was successful</response>
+            <response code="404">Group not found by Id</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.GroupsController.GetAll">
+            <summary>
+            Show all groups
+            </summary>
+            <returns></returns>
+            <response code="200">The process was successful</response>
+            <response code="404">Error has occurred</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.GroupsController.Delete(System.Int32)">
+            <summary>
+            Delete a group by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <response code="204">The process was successful</response>
+            <response code="404">Group not found by Id</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.StudentsController.Create(StudentApp.Service.Dtos.StudentDtos.StudentCreateDto)">
+            <summary>
+            Create a new student
+            </summary>
+            <remarks>
+            Sample request:
+                
+                POST api/groups
+                {
+                    "FullName": "Faiq Ismayilov",
+                    "Point": "50.00",
+                    "GroupId": 5
+                }
+            </remarks>
+            <param name="postDto"></param>
+            <returns></returns>
+            <response code="201">The student has been successfully created</response>
+            <response code="400">The request contains invalid data or the data does not follow a specific rule.</response>
+            <response code="404">The requested source or destination was not found.</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.StudentsController.Edit(System.Int32,StudentApp.Service.Dtos.StudentDtos.StudentEditDto)">
+            <summary>
+            Edit your Student
+            </summary>
+            <param name="id"></param>
+            <param name="editDto"></param>
+            <returns></returns>
+            <response code="204">The Student has updated successfuly</response>
+            <response code="400">The request contains invalid data or the data does not follow a specific rule.</response>
+            <response code="404">Student not found by id</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.StudentsController.Get(System.Int32)">
+            <summary>
+            Get a student by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <response code="200">The process was successful</response>
+            <response code="404">Student not found by Id</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.StudentsController.GetAll">
+            <summary>
+            Show all students
+            </summary>
+            <returns></returns>
+            <response code="200">The process was successful</response>
+            <response code="404">Error has occurred</response>
+        </member>
+        <member name="M:StudentApp.Api.Controllers.StudentsController.Delete(System.Int32)">
+            <summary>
+            Delete a student by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <response code="204">The process was successful</response>
+            <response code="404">Student not found by Id</response>
+        </member>
+    </members>
+</doc>

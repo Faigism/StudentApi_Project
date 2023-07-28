@@ -1,0 +1,17 @@
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.csproj.AssemblyReference.cache
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.AssemblyInfoInputs.cache
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.AssemblyInfo.cs
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\bin\Debug\net6.0\StudentApp.Service.deps.json
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\bin\Debug\net6.0\StudentApp.Service.dll
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\bin\Debug\net6.0\StudentApp.Service.pdb
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\bin\Debug\net6.0\StudentApp.Core.dll
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\bin\Debug\net6.0\StudentApp.Data.dll
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\bin\Debug\net6.0\StudentApp.Data.pdb
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\bin\Debug\net6.0\StudentApp.Core.pdb
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.csproj.CopyComplete
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.dll
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\refint\StudentApp.Service.dll
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.pdb
+C:\Users\faiqi\OneDrive\Desktop\API_Project\API_Project\StudentApp.Service\obj\Debug\net6.0\ref\StudentApp.Service.dll
